@@ -1,5 +1,10 @@
-# PhysX-Complete
+# PhysX
 
+This repo is forked from **[RavEngine/PhysX-Complete](https://github.com/RavEngine/PhysX-Complete)**, and includes additional configurations from [the O3DE fork](https://github.com/o3de/PhysX).
+
+This is to be used for integration into [Unreal Engine](https://github.com/lucasfisher0/UE5X).
+
+# RavEngine/PhysX-Complete
 The latest version of NVIDIA PhysX, with modifications to make it compile with CMake on more platforms.
 Developed for use in [RavEngine](https://github.com/RavEngine/RavEngine). 
 
